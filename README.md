@@ -1,0 +1,17 @@
+# RegisterFile_Management_System
+- Program to organize registers with attributes name, birthday and id in a file.
+- The main function is just a sample usage.
+- C program written in portuguese, the translations are:
+- RA = ID
+- aniversario = birthday
+- nome = name
+- Translation for functions:
+- removeReg = remove register from file
+- insereReg = insert register in file
+- listaValidos = list valid registers
+- listaInvalidos = list not valid registers
+- mudaReg = change register info(1 for ID, 2 for birthday, 3 for name)
+- buscaPorChavePrimaria = search using ID
+- buscaRegAniversario = search for birthday
+- buscaRegNome = search for name
+- compacta = compact file(eliminates physically all invalid register from file)
